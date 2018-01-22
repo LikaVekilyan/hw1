@@ -41,4 +41,5 @@
 </table>
  
  * ***Мой любимый цветок***:
+ 
 ![alt text]( http://mentol72.ru/upload/resize_cache/iblock/01e/800_600_140cd750bba9870f18aada2478b24840a/01e5ae4b58d21cace0f72c5f7f5588a1.jpg "Комм"  )
